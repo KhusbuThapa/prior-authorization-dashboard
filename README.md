@@ -1,61 +1,52 @@
 # Prior Authorization Dashboard
 
-A healthcare dashboard for tracking prior authorization requests with **React**, **TypeScript**, **Tailwind CSS**, and **Chart.js**.  
-Includes search, filters, KPI cards, a pie chart for status overview, and a responsive UI.
+A healthcare prior-authorization tracking dashboard built using **React, TypeScript, Tailwind CSS, and Chart.js**.
 
 ---
 
-## 🚀 Features
-- 📊 Dynamic **KPI cards** (Approved, Pending, Denied counts).
-- 🧾 **Request table** with filters.
-- 🌙 **Dark mode toggle**.
-- 📈 **Interactive Pie Chart** (Chart.js).
-- ⚡ Built with **React + Vite + TypeScript**.
-- 🎨 Fully responsive with **Tailwind CSS**.
+## Features
+- 📊 **KPI Cards**: Quick stats for approved, pending, and denied requests.
+- 🥧 **Pie Chart**: Visual representation of request statuses (Chart.js).
+- 🔍 **Search & Filter**: Quickly find requests by patient or provider.
+- 🌙 **Dark Mode**: Toggle between light and dark themes.
+- 📱 **Responsive UI**: Optimized for mobile, tablet, and desktop.
 
 ---
 
-## 🖼️ Preview
-![Dashboard Screenshot](screenshot.png)
+## Screenshot
+![Dashboard Screenshot](https://github.com/KhusbuThapa/prior-authorization-dashboard/blob/main/dashboard.png)
+
+*(Replace the above link once you upload your screenshot.)*
 
 ---
 
-## 📦 Installation
-1. Clone the repository:
+## Tech Stack
+- **Frontend**: React, TypeScript, Vite
+- **Styling**: Tailwind CSS
+- **Charts**: Chart.js, React-Chartjs-2
+- **Tooling**: ESLint, PostCSS, GitHub
+
+---
+
+## Getting Started
+1. Clone this repository:
    ```bash
    git clone https://github.com/KhusbuThapa/prior-authorization-dashboard.git
-   cd prior-authorization-dashboard
-Install dependencies:
+   
 npm install
-
-Run the project:
 npm run dev
 
-🔧 Tech Stack
-React (with Hooks)
+Future Enhancements
+REST API integration
 
-TypeScript
+Role-based access
 
-Tailwind CSS
+Pagination for large data sets
 
-Chart.js
+CI/CD pipeline for deployment 
 
-Vite
-
-✨ Future Improvements
-REST API Integration
-
-Pagination & Sorting
-
-Role-based Authentication
-
-CI/CD & Deployment (Vercel/Netlify)
-
-👩‍💻 Author
-Khusbu Thapa
-LinkedIn | GitHub
-
-
+License
+This project is licensed under the MIT License.
 
 
 
