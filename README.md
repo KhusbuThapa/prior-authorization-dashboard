@@ -14,9 +14,11 @@ A healthcare prior-authorization tracking dashboard built using **React, TypeScr
 ---
 
 ## Screenshot
-![Dashboard Screenshot](https://github.com/KhusbuThapa/prior-authorization-dashboard/blob/main/dashboard.png)
+![Dashboard Screenshot](https://github.com/KhusbuThapa/prior-authorization-dashboard/blob/main/Screenshot%201.png?raw=true)
 
-*(Replace the above link once you upload your screenshot.)*
+## Screenshot
+![Dashboard Screenshot](https://github.com/KhusbuThapa/prior-authorization-dashboard/blob/main/Screenshot%202.png?raw=true)
+
 
 ---
 
