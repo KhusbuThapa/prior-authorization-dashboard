@@ -1,35 +1,61 @@
 # Prior Authorization Dashboard
 
-A healthcare dashboard built with **React + TypeScript + Tailwind CSS + Chart.js** to visualize prior-authorization requests with charts, filters, and dynamic KPIs.
+A healthcare dashboard for tracking prior authorization requests with **React**, **TypeScript**, **Tailwind CSS**, and **Chart.js**.  
+Includes search, filters, KPI cards, a pie chart for status overview, and a responsive UI.
 
-## Features
-- **Dynamic KPI cards** (Approved, Pending, Denied)
-- **Pie chart visualization** with Chart.js
-- **Requests table** with patient, provider, medication & status
-- **Responsive UI** using Tailwind CSS
-- Modular components: `StatsCards`, `StatusChart`, `RequestTable`
+---
 
-## Tech Stack
-**React, TypeScript, Vite, Tailwind CSS, Chart.js, PostCSS, ESLint**
+## 🚀 Features
+- 📊 Dynamic **KPI cards** (Approved, Pending, Denied counts).
+- 🧾 **Request table** with filters.
+- 🌙 **Dark mode toggle**.
+- 📈 **Interactive Pie Chart** (Chart.js).
+- ⚡ Built with **React + Vite + TypeScript**.
+- 🎨 Fully responsive with **Tailwind CSS**.
 
-## Getting Started
-```bash
+---
+
+## 🖼️ Preview
+![Dashboard Screenshot](screenshot.png)
+
+---
+
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KhusbuThapa/prior-authorization-dashboard.git
+   cd prior-authorization-dashboard
+Install dependencies:
 npm install
+
+Run the project:
 npm run dev
-Future Enhancements
-REST API integration (mock → real backend)
 
-Pagination, sorting & advanced filters
+🔧 Tech Stack
+React (with Hooks)
 
-Auth & role-based access (doctor, reviewer, admin)
+TypeScript
 
-CI/CD (GitHub Actions) + deployment (Vercel/Netlify)
+Tailwind CSS
 
-Unit/integration tests (Vitest + React Testing Library)
+Chart.js
 
-Accessibility (WCAG) & Dark mode
+Vite
+
+✨ Future Improvements
+REST API Integration
+
+Pagination & Sorting
+
+Role-based Authentication
+
+CI/CD & Deployment (Vercel/Netlify)
+
+👩‍💻 Author
+Khusbu Thapa
+LinkedIn | GitHub
 
 
-Need a **1‑line project blurb** for your resume or LinkedIn too? I can give you that next.
+
 
 
